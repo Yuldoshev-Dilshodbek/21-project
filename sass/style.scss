@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    background-image: url(../image/img.png);
+    background-repeat: no-repeat;
+    color: aliceblue;
+    background-position: 50% 0%;
+    width: 1400px;
+    margin: 0 auto;
+}
+.header{
+    background-repeat: no-repeat;
+    color: aliceblue;
+    background-position: 50% 50%;
+    background-image: url(../image/vector\ shape\ \(1\).png);
+}
+.header_link{
+    display: flex;
+    // justify-content: space-between;
+    margin-top: 20px;
+    li{
+        list-style: none;
+    }
+    ol{
+        display: flex;
+        width: 200px;
+        justify-content: space-between;
+    }
+    .img{
+        height: 50px;
+    }
+    .imgg{
+        height: 95vh;
+        margin-left: 50px;
+    }
+    ul{
+        margin-left: 500px;
+    }
+}
+.header_loge2{
+    font-size: 50px;
+    margin-top: -200px;
+    margin-left: 250px;
+}

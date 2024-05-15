@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  color: aliceblue;
+  background-image: url(../image/img.png);
+  background-repeat: no-repeat;
+  color: aliceblue;
+  background-position: 50% 0%;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.header {
+  background-repeat: no-repeat;
+  color: aliceblue;
+  background-position: 50% 50%;
+  background-image: url(../image/vector\ shape\ \(1\).png);
+}
+
+.header_link {
+  display: flex;
+  margin-top: 20px;
+}
+.header_link li {
+  list-style: none;
+}
+.header_link ol {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
+.header_link .img {
+  height: 50px;
+}
+.header_link .imgg {
+  height: 95vh;
+  margin-left: 50px;
+}
+.header_link ul {
+  margin-left: 500px;
+}
+
+.header_loge2 {
+  font-size: 50px;
+  margin-top: -200px;
+  margin-left: 250px;
+}/*# sourceMappingURL=style.css.map */
